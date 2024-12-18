@@ -1,0 +1,22 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - keychat_rust_ffi (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - keychat_rust_ffi (from `Flutter/ephemeral/.symlinks/plugins/keychat_rust_ffi/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  keychat_rust_ffi:
+    :path: Flutter/ephemeral/.symlinks/plugins/keychat_rust_ffi/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  keychat_rust_ffi: 1293479c43422b87ac8429859a8b5732093a49cb
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.15.2
