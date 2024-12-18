@@ -1,7 +1,7 @@
 name: keychat_rust_ffi
 description: "A new Flutter FFI plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/keychat-io/keychat_rust_ffi
 
 environment:
   sdk: ^3.6.0
